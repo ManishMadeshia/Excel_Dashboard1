@@ -2,7 +2,7 @@
 
 🚀 Welcome to my Excel Dashboard project! This repository showcases an interactive and insightful Excel dashboard built for analyzing revenue, profit, expenses, and transactions across multiple categories.
 
-🔍 Project Overview
+🔍 Project Overview :
 This project is designed to transform raw transaction data into meaningful insights using Excel. It includes:
 ✅ Dashboard – Visual representation of key business metrics 📈
 ✅ Data Sheet – A structured dataset containing transactions, categories, regions, and more 📊
