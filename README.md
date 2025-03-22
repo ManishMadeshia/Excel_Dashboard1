@@ -36,6 +36,10 @@ Pivot Tables & Charts
 
 Data Cleaning & Formatting
 
+
+![image](https://github.com/user-attachments/assets/ab732f39-9b13-4b88-9b65-d26ea078028f)
+
+
 📩 Get in Touch
 If you find this project useful or have any suggestions, feel free to connect! 🚀
 
