@@ -4,11 +4,8 @@
 🖼️ Open Graph (OG) Preview
 When shared on platforms like LinkedIn, Twitter, or Discord, this repository will display a rich preview with the following OG image:
 
-md
-Copy
-Edit
-![Excel Dashboard OG Image](![image](https://github.com/user-attachments/assets/68467d70-06cf-45d1-a6ae-3fc2f40acc3e)
-)
+![image](https://github.com/user-attachments/assets/aa8701cd-64a9-4c29-947e-894963596e8c)
+
 
 🔍 Project Overview
 This project is designed to transform raw transaction data into meaningful insights using Excel. It includes:
